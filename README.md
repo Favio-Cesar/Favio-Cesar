@@ -8,8 +8,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 
    <p align="left">
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
-         <img alt="Zayas Webpage" title="webpage" width="30px"  src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/>
-        <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#EFEFEF"><path d="M480-120 200-272v-240L40-600l440-240 440 240v320h-80v-276l-80 44v240L480-120Zm0-332 274-148-274-148-274 148 274 148Zm0 241 200-108v-151L480-360 280-470v151l200 108Zm0-241Zm0 90Zm0 0Z"/></svg>
       </a> 
    </p>
 
