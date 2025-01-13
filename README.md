@@ -2,11 +2,14 @@
 
 **`Digital Developer (Web/Aplication/Design/3D/VG Dev)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+I'm an indie developer and design amateur, building my version of the digital world one step at a time.
+  
+Soy un desarrollador independiente y diseñador amateur, construyendo mi versión del mundo digital paso a paso. 
 
    <p align="left">
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
-         <img alt="Zayas Webpage" title="webpage" src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/></a> 
+         <img alt="Zayas Webpage" title="webpage" width="30px"  src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/>
+      </a> 
    </p>
 
 ---
@@ -36,15 +39,16 @@ I'm an indie full-stack developer and content creator building my version of the
    <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img alt="SSH" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
    <img alt="English" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
-   <img alt="Spanish" width="30px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />: Native
+   <img alt="Spanish" width="30px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />: Nativo
 </div>
-
 
 #
 
-### 📺 Latest Studies
+### 📺 Latest Studies / Últimos estudios
 
-Currently doing a CTeSP - Professional Higher Technical Course about Web Development
+Currently doing a CTeSP - Professional Higher Technical Course about Web Application Development
+
+Actualmente realizando una Formación Superior Profesional de Desarrollo de Aplicaciones Web
 
 ### 📊 Stats
 
