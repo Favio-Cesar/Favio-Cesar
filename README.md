@@ -35,7 +35,7 @@ I'm an indie full-stack developer and content creator building my version of the
    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img alt="SSH" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
-   <img alt="English" width="30px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/en.svg" />: C1
+   <img alt="English" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
    <img alt="Spanish" width="30px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />: Native
 </div>
 
