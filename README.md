@@ -1,4 +1,4 @@
-# 🖥️ Favio-Cesar 🔍
+# 🖥️ Favio César 🔍
 
 **`Digital Developer (Web/Aplication/Design/3D/VG Dev)`**
 
@@ -9,6 +9,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <p align="left">
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
          <img alt="Zayas Webpage" title="webpage" width="30px"  src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/>
+        <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png">
       </a> 
    </p>
 
