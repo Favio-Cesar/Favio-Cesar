@@ -1,50 +1,117 @@
-# 🖥️ Favio-Cesar 🔍
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
 
-**`Digital Developer (Web/Aplication/Design/3D/VG Dev)`**
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+  }
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 2rem auto;
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
 
-   <p align="left">
-      <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
-         <img alt="Zayas Webpage" title="webpage" src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/></a> 
-   </p>
+  .header-image {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
 
----
+  .header-image img {
+    max-width: 200px;
+    border-radius: 50%;
+    border: 4px solid #333;
+  }
 
-### 🧰 Languages and Tools / Lenguajes y Herramientas
+  .languages-tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-   <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img alt="Tailwind" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
-   <img alt="ThreeJS" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
-   <img alt="Blender" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
-   <img alt="Godot" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
-   <img alt="PHP" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
-   <img alt="MySql" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
-   <img alt="SqlDeveloper" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" />
-   <img alt="SqlLite" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" />
-   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img alt="SSH" width="30px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
-   <img alt="English" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
-   <img alt="Spanish" width="30px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />: Native
+  .icon-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #6b6bff, #ff6b6b);
+    border-radius: 50%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .icon-btn img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .icon-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .stats {
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  .stats img {
+    max-width: 100%;
+    border-radius: 12px;
+  }
+
+  .studies {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #555;
+  }
+</style>
+
+<div class="container">
+  <h1>🖥️ Favio-Cesar 🔍</h1>
+  <p align="center" class="header-image">
+    <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
+      <img alt="Zayas Webpage" src="https://site.educa.madrid.org/ies.mariadezayas.majadahonda//wp-content/uploads/ies.mariadezayas.majadahonda/2020/10/Logo-zayas_web.png"/>
+    </a>
+  </p>
+
+  <section>
+    <h2>🧰 Languages and Tools</h2>
+    <div class="languages-tools">
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></div>
+      <div class="icon-btn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"></div>
+    </div>
+  </section>
+
+  <section class="stats">
+    <h2>📊 Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Favio-Cesar&show_icons=true&theme=gruvbox" alt="Favio's GitHub stats">
+  </section>
+
+  <section class="studies">
+    <h2>📺 Latest Studies</h2>
+    <p>Currently doing a CTeSP - Professional Higher Technical Course about Web Development.</p>
+  </section>
 </div>
-
-
-#
-
-### 📺 Latest Studies
-
-Currently doing a CTeSP - Professional Higher Technical Course about Web Development
 
 ### 📊 Stats
 
