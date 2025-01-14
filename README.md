@@ -27,35 +27,35 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.typescriptlang.org" target="_blank">
       <img alt="TypeScript" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img alt="HTML" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img alt="CSS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://reactjs.org" target="_blank">
       <img alt="React" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://nodejs.org" target="_blank">
       <img alt="NodeJS" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://tailwindcss.com" target="_blank">
       <img alt="Tailwind" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://threejs.org" target="_blank">
       <img alt="ThreeJS" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
    </a>
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ 
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
