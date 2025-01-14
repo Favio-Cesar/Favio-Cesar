@@ -102,11 +102,11 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.gnu.org/software/bash/" target="_blank">
-      <img alt="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img alt="Bash" width="50px" src="https://img.icons8.com/color/512/bash.png" />
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.openssh.com" target="_blank">
-      <img alt="SSH" width="50px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
+      <img alt="SSH" width="50px" src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" />
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://junit.org/junit5/" target="_blank">
