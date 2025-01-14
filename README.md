@@ -8,7 +8,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 
 ---
 
-### 🧰 Languages and Tools / Lenguajes y Herramientas
+### Programming Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -25,7 +25,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </div>
-
+### Web development 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
    ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.typescriptlang.org" target="_blank">
@@ -58,17 +58,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    ‎ ‎ ‎ ‎ ‎ ‎ 
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://www.blender.org" target="_blank">
-      <img alt="Blender" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
-   </a>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://godotengine.org" target="_blank">
-      <img alt="Godot" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
-   </a>
-
-</div>
+### Backend
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -89,6 +79,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 </div>
 
+###
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://git-scm.com" target="_blank">
@@ -106,6 +98,18 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <a href="https://www.openssh.com" target="_blank">
       <img alt="SSH" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
    </a>
+</div>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   <a href="https://www.blender.org" target="_blank">
+      <img alt="Blender" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
+   </a>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   <a href="https://godotengine.org" target="_blank">
+      <img alt="Godot" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
+   </a>
+
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
