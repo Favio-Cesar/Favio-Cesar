@@ -9,53 +9,99 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ---
 
 ### 🧰 Languages and Tools / Lenguajes y Herramientas
-
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   <a href="https://www.java.com" target="_blank">
+      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   </a>
+   <a href="https://www.python.org" target="_blank">
+      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   </a>
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
-   <img alt="ThreeJS" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
+   <a href="https://www.typescriptlang.org" target="_blank">
+      <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   </a>
+   <a href="https://reactjs.org" target="_blank">
+      <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   </a>
+   <a href="https://nodejs.org" target="_blank">
+      <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   </a>
+   <a href="https://tailwindcss.com" target="_blank">
+      <img alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
+   </a>
+   <a href="https://threejs.org" target="_blank">
+      <img alt="ThreeJS" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
+   </a>
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
-   <img alt="Blender" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
-   <img alt="Godot" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
+   <a href="https://www.blender.org" target="_blank">
+      <img alt="Blender" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
+   </a>
+   <a href="https://godotengine.org" target="_blank">
+      <img alt="Godot" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
+   </a>
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
-   <img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
-   <img alt="MySql" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
-   <img alt="SqlDeveloper" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" />
-   <img alt="SqlLite" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" />
+   <a href="https://www.php.net" target="_blank">
+      <img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
+   </a>
+   <a href="https://www.mysql.com" target="_blank">
+      <img alt="MySql" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
+   </a>
+   <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank">
+      <img alt="SqlDeveloper" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" />
+   </a>
+   <a href="https://www.sqlite.org" target="_blank">
+      <img alt="SqlLite" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" />
+   </a>
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
-   <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img alt="SSH" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
+   <a href="https://github.com" target="_blank">
+      <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   </a>
+   <a href="https://git-scm.com" target="_blank">
+      <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   </a>
+   <a href="https://www.linux.org" target="_blank">
+      <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   </a>
+   <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+   </a>
+   <a href="https://www.openssh.com" target="_blank">
+      <img alt="SSH" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
+   </a>
 </div>
 
 <div style="display: flex; flex-direction:row; align-items: center;">
 <div>
    <div style="display:flex; flex-direction:column;">
-   <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
+      <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">
+         <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
+      </a>: C1
    </div>
    <div style="display:flex; flex-direction:column;">
-   <img alt="Spanish" width="40px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />Nativo
+      <a href="https://dle.rae.es/" target="_blank">
+         <img alt="Spanish" width="40px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />
+      </a>Nativo
    </div>
 </div>
 </div>
+
 #
 
 ### 📺 Latest Studies / Últimos estudios
