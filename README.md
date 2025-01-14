@@ -11,7 +11,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ### 🧰 Languages and Tools / Lenguajes y Herramientas
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
