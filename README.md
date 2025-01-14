@@ -118,11 +118,19 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
       <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">
          <img alt="English" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
       </a>C1
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
       <a href="https://dle.rae.es/" target="_blank">
          <img alt="Spanish" width="90px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />
-      </a>Nativo
+      </a>
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+      <a href="https://dle.rae.es/" target="_blank">
+         <img alt="Spanish" width="90px" src="https://github.com/joielechong/iso-country-flags-svg-collection/blob/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/de.svg" />
+      </a>
+      
 </div>
+<p>* English: C1</p>
+<p>* Spanish: Native</p>
+<p>* German: A1</p>
 
 #
 
