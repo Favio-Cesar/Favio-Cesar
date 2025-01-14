@@ -67,7 +67,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <a href="https://godotengine.org" target="_blank">
       <img alt="Godot" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
    </a>
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
