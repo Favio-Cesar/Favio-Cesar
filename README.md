@@ -25,7 +25,9 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </div>
-### Web development 
+
+### Web development
+
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
    ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.typescriptlang.org" target="_blank">
@@ -79,7 +81,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 </div>
 
-###
+### Systems
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -100,6 +102,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 </div>
 
+### Other (Animation, 3D modeling, Game dev, Media production...)
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.blender.org" target="_blank">
@@ -111,6 +115,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 
 </div>
+
+### Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
