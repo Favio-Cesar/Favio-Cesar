@@ -71,7 +71,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.php.net" target="_blank">
       <img alt="PHP" width="90px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
    </a>
