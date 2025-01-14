@@ -46,7 +46,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <img alt="SSH" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; flex-direction:row; align-items: center;">
 <div>
    <div style="display:flex; flex-direction:column;">
    <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
