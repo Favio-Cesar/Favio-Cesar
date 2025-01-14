@@ -59,7 +59,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://threejs.org" target="_blank">
-      <img alt="ThreeJS" width="50px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
+      <img alt="ThreeJS" width="50px" src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" />
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ 
 </div>
