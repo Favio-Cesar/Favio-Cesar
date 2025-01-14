@@ -9,10 +9,12 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ---
 
 ### 🧰 Languages and Tools / Lenguajes y Herramientas
+
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
    <a href="https://www.java.com" target="_blank">
       <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </a>
+   ‎ ‎ ‎ ‎ 
    <a href="https://www.python.org" target="_blank">
       <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    </a>
@@ -92,7 +94,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <div style="display:flex; flex-direction:column;">
       <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">
          <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
-      </a>: C1
+      </a>C1
    </div>
    <div style="display:flex; flex-direction:column;">
       <a href="https://dle.rae.es/" target="_blank">
@@ -110,7 +112,7 @@ Currently doing a CTeSP - Professional Higher Technical Course about Web Applica
 
 Actualmente realizando una Formación Superior Profesional de Desarrollo de Aplicaciones Web
 
-   <p align="left">
+   <p>
      Official Educational Institution Web:
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
         <img alt="Zayas" width="30px" src="https://img.icons8.com/?size=100&id=111460&format=png&color=FFFFFF" />
