@@ -11,7 +11,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ### Programming Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://www.java.com" target="_blank">
       <img alt="Java" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </a>
@@ -142,7 +142,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ### Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
       <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">
          <img alt="English" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
       </a>
