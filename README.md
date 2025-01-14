@@ -116,15 +116,15 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
       <a href="https://www.oxfordlearnersdictionaries.com/" target="_blank">
-         <img alt="English" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
+         <img alt="English" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />
       </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
       <a href="https://dle.rae.es/" target="_blank">
-         <img alt="Spanish" width="120px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />
+         <img alt="Spanish" width="150px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />
       </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
       <a href="https://dle.rae.es/" target="_blank">
-         <img alt="Spanish" width="120px" src="https://github.com/joielechong/iso-country-flags-svg-collection/blob/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/de.svg" />
+         <img alt="Spanish" width="150px" src="https://github.com/joielechong/iso-country-flags-svg-collection/blob/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/de.svg" />
       </a>
       
 </div>
