@@ -90,10 +90,6 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://github.com" target="_blank">
-      <img alt="GitHub" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://git-scm.com" target="_blank">
       <img alt="Git" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
