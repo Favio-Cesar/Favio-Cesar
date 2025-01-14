@@ -8,7 +8,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 
    <p align="left">
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
-        <img alt="Zayas" width="30px" src="https://github.com/seanyeh/fontawesome-svgs/blob/a16040d06ccdc20f12a3498af75baed13e2aea42/svg/school-regular.svg" />
+        <img alt="Zayas" width="30px" src="https://img.icons8.com/?size=100&id=111460&format=png&color=FFFFFF" />
       </a> 
    </p>
 
