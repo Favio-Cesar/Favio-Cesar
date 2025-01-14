@@ -16,7 +16,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
    <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -38,7 +38,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <img alt="SqlLite" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" />
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
