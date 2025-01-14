@@ -3,19 +3,20 @@
 **`Digital Developer (Web/Aplication/Design/3D/VG Dev)`**
 
 I'm an indie developer and design amateur, building my version of the digital world one step at a time.
-  
-Soy un desarrollador independiente y diseñador amateur, construyendo mi versión del mundo digital paso a paso. 
+
+Soy un desarrollador independiente y diseñador amateur, construyendo mi versión del mundo digital paso a paso.
 
 ---
 
 ### 🧰 Languages and Tools / Lenguajes y Herramientas
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; background-color:white;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
    <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </div>
-  <div>
+</div>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
    <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,21 +24,38 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <img alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
    <img alt="ThreeJS" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original.svg" />
+</div>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
    <img alt="Blender" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" />
    <img alt="Godot" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg" />
+</div>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
    <img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" />
    <img alt="MySql" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
    <img alt="SqlDeveloper" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" />
    <img alt="SqlLite" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" />
+</div>
+
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img alt="SSH" width="40px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ssh/ssh-original.svg" />
-   <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
-   <img alt="Spanish" width="40px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />: Nativo
 </div>
 
+<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 40px;">
+<div>
+   <div style="display:flex; flex-direction:column;">
+   <img alt="English" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg/300px-Flag_of_the_United_Kingdom_%281-1%29.svg.png" />: C1
+   </div>
+   <div style="display:flex; flex-direction:column;">
+   <img alt="Spanish" width="40px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />Nativo
+   </div>
+</div>
+</div>
 #
 
 ### 📺 Latest Studies / Últimos estudios
@@ -60,7 +78,7 @@ Actualmente realizando una Formación Superior Profesional de Desarrollo de Apli
 #
 
 <!--
-**Favio-Cesar/Favio-Cesar** 
+**Favio-Cesar/Favio-Cesar**
 
 Here are some ideas:
 
