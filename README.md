@@ -120,6 +120,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    
 </div>
 
+#
+
 ### Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 100px;">
@@ -137,9 +139,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
       </a>
       
 </div>
-<p>* English: C1</p>
-<p>* Spanish: Native</p>
-<p>* German: A1</p>
+<p>* English: C1  /  Spanish: Native   /   German: A1</p>
 
 #
 
