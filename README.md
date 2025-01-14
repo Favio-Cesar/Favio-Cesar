@@ -44,8 +44,8 @@ Currently doing a CTeSP - Professional Higher Technical Course about Web Applica
 
 Actualmente realizando una Formación Superior Profesional de Desarrollo de Aplicaciones Web
 
-Official Educational Institution Web:
    <p align="left">
+     Official Educational Institution Web:
       <a href="https://site.educa.madrid.org/ies.mariadezayas.majadahonda/">
         <img alt="Zayas" width="30px" src="https://img.icons8.com/?size=100&id=111460&format=png&color=FFFFFF" />
       </a> 
