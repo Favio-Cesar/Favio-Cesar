@@ -46,6 +46,10 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
       <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ 
+   <a href="https://remix.run/" target="_blank">
+      <img alt="Remix" width="50px" src="https://remix.run/_brand/remix-letter-glowing.svg" />
+   </a>
+   ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://nodejs.org" target="_blank">
       <img alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    </a>
@@ -110,7 +114,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    </a>
 </div>
 
-### Other (Animation, 3D modeling, Game dev, Media production...)
+### Other (Animation, 3D modelling, Game dev, Media production...)
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
