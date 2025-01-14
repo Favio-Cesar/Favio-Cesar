@@ -112,7 +112,6 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
    <a href="https://junit.org/junit5/" target="_blank">
       <img alt="Junit5" width="50px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original.svg" />
    </a>
-</div>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    <a href="https://code.visualstudio.com/" target="_blank">
       <img alt="vscode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
