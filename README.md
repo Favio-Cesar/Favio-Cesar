@@ -11,8 +11,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 ### Programming Languages
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://www.java.com" target="_blank" style="margin:0 10px; text-decoration: none;">
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   <a href="https://www.java.com" target="_blank">
       <img alt="Java" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -68,7 +68,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 10px;">
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://www.php.net" target="_blank">
+   <a href="https://httpd.apache.org/" target="_blank">
       <img alt="Apache" width="50px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg" />
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -162,8 +162,8 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
          <img alt="Spanish" width="100px" src="https://github.com/lipis/flag-icons/blob/e119b66129af6dd849754ccf25dfbf81d4a306d5/flags/1x1/es.svg" />
       </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
-      <a href="https://dle.rae.es/" target="_blank">
-         <img alt="Spanish" width="100px" src="https://github.com/joielechong/iso-country-flags-svg-collection/blob/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/de.svg" />
+      <a href="https://www.duden.de/" target="_blank">
+         <img alt="German" width="100px" src="https://github.com/joielechong/iso-country-flags-svg-collection/blob/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-squared/de.svg" />
       </a>
       
 </div>
