@@ -12,7 +12,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   <a href="https://www.java.com" target="_blank">
+   <a href="https://www.java.com" target="_blank" style="margin:0 10px; text-decoration: none;">
       <img alt="Java" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </a>
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -138,7 +138,7 @@ Soy un desarrollador independiente y diseñador amateur, construyendo mi versió
       <img alt="Vegas Pro" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/VEGAS_Pro_icon.png?20210526085041" />
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
-   <a href="https://www.adobe.com/es/products/aftereffects.html/" >
+   <a href="https://www.adobe.com/es/products/aftereffects.html/" target="_blank">
       <img alt="After Effects" width="50px" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/aftereffects/aftereffects-original.svg" />
    </a>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
